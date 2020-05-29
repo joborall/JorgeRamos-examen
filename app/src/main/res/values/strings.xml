@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JorgeRamos-examen</string>
+    <!-- Strings related to login -->
+    <string name="txtUser">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="txtUConectado">Usuario conectado: </string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtMInicial">Monto Inicial</string>
+    <string name="txtPMensual">Cuota mensual</string>
+    <string name="btnCalcCuota">Calcular Cuota</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="txtP1">¿Por qué eligió este centro?</string>
+    <string name="txtP2">¿Qué deportes practica?</string>
+    <string name="txtP3">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="cbFut">Futbol</string>
+    <string name="cbBasq">Basquet</string>
+    <string name="cbVol">Tenis</string>
+    <string name="rbSi">Si</string>
+    <string name="rbNo">No</string>
+    <string name="btnFinEncuesta">Finalizar Encuesta</string>
+
+</resources>
